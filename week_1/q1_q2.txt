@@ -1,0 +1,7 @@
+
+q1 
+docker build --help
+
+q2
+docker run -it --entrypoint=bash python:3.9
+pip list
